@@ -14,7 +14,8 @@ To use this simulator, follow these steps:
 
 ## Usage
 
-Refer to the included video file for a detailed demonstration of the project in action.
+Refer to the following video file for a detailed demonstration of the project in action.
+https://drive.google.com/file/d/1riFJB_FJn0iX_qCU0Eu1QUsnqLBnK12B/view?usp=sharing
 
 Feel free to explore, contribute, and enhance the capabilities of our Self-Driving Car Simulator. Your involvement is crucial to the continuous improvement of this project.
 
